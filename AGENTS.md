@@ -4,6 +4,9 @@
 - **CRITICAL**: The `README.md` describes the *target* state of the repository (Maven, Java 17, `src/main/java` structure), but the repository is currently transitioning from a legacy state. 
 - Always verify if `pom.xml` exists. If it does not, you are working in the legacy codebase with root directories `backend/`, `frontend/`, and `inicio/`. Do not run `mvn` commands until the migration to a standard Maven structure is complete.
 
+## Project Scope & Activities
+- **CRITICAL**: Always refer to the `TRABALHO.md` file as the primary source of truth for the activities, deliverables, and requirements that must be accomplished throughout this project. It contains the detailed scope for tests, code inspection, and deadlines.
+
 ## Architecture & Entrypoint
 - This is a legacy Java Swing OOP application being refactored for a Software Quality and Testing class.
 - The main entrypoint of the application is `inicio.MedAlerta` located at `inicio/MedAlerta.java`.
