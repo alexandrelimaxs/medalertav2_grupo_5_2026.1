@@ -81,10 +81,10 @@ Abaixo listamos os comandos principais configurados no arquivo `pom.xml` para ge
 ## • Integrantes
 
 - **Alexandre Colmenero** ([@alexandrelimaxs](https://github.com/alexandrelimaxs))
-- **Gabriel Soares**
+- **Gabriel Soares** ([@Gabriel-HS](https://github.com/Gabriel-HS))
 - **Leonardo Carvalho** ([@leonardocfonseca](https://github.com/leonardocfonseca))
 - **Mateus Magalhães** ([@MGLHS](https://github.com/MGLHS))
-- **Sandro Henrique**
+- **Sandro Henrique** ([@sandrohmt](https://github.com/sandrohmt))
 
 ## • Entregas
 
